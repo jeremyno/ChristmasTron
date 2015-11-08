@@ -1,0 +1,2 @@
+1000:10x10Ghost.bmp
+1000:10x10Ghost2.bmp
